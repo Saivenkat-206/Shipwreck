@@ -8,7 +8,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "build": "expo build:web"  // Add the build script here
+    "build": "expo build:web"
   },
   "dependencies": {
     "@react-navigation/native": "^6.1.18",
@@ -26,4 +26,3 @@
   },
   "private": true
 }
-
