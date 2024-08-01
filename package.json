@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Saivenkat-206.github.io/Shipwreck"
+  "homepage": "http://Saivenkat-206.github.io/Shipwreck",
   "name": "shipwreck",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
@@ -25,3 +25,4 @@
   },
   "private": true
 }
+
