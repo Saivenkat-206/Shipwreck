@@ -28,7 +28,7 @@ Signal for Help: Use the app’s emergency signaling feature to contact rescue s
 
 📬 Contact Us
 Have questions or need support? Reach out to us via email:
-[rsaivankat.aiml2023@citchennai.net](mailto:rsaivankat.aiml2023@citchennai.net?subject=Support%20Request&body=Hello%20Siva,%0A%0AI%20have%20a%20question%20about%20the%20Shipwreck%20app.%20Please%20get%20back%20to%20me%20at%20your%20earliest%20convenience.%0A%0AThank%20you.)
+[saivenkat06vk@gmail.com](mailto:saivenkat06vk@gmail.com?subject=Support%20Request&body=Hello%20Siva,%0A%0AI%20have%20a%20question%20about%20the%20Shipwreck%20app.%20Please%20get%20back%20to%20me%20at%20your%20earliest%20convenience.%0A%0AThank%20you.)
 [vigneshwaranv.aiml2023@citchennai.net](mailto:vigneshwaranv.aiml2023@citchennai.net?subject=Support%20Request&body=Hello%20Vigneshwaran,%0A%0AI%20have%20a%20question%20about%20the%20Shipwreck%20app.%20Please%20get%20back%20to%20me%20at%20your%20earliest%20convenience.%0A%0AThank%20you.)
 
 Your safety is our top priority. We hope Shipwreck becomes an invaluable tool in your survival toolkit!
